@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25 mar. 2022, 12:17:45
+    Author     : allof
+*/
+
+body{font-family:Arial; font-size:20px}
+input{font-family:Arial; font-size:25px}
+
+p{font-size:25px}
+#registro_Admin{width:700px;height: 500px;margin:auto; clear:left;background-color:#b72a55;padding-left: 30px;padding-top: 20px;padding-bottom: 30px}
+#registro_Cliente{width:700px;height: 500px;margin:auto; clear:left;background-color:#b72a55;padding-left: 30px;padding-top: 20px;padding-bottom: 30px}
+#registro_Restaurante{width:700px;height: 500px;margin:auto; clear:left;background-color:#b72a55;padding-left: 30px;padding-top: 20px;padding-bottom: 30px}
+#boton_registroAdmin{width:200px; height:40px; background-color: black;color:white}
+#boton_registroUser{width:200px; height:40px; background-color: black;color:white}
+#boton_registroRestaurante{width:200px; height:40px; background-color: black;color:white}

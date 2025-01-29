@@ -1,0 +1,26 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1 jul. 2022, 17:44:55
+    Author     : roger
+*/
+#contenedor{display: inline}
+
+.logo {background-color: black;color:black; display:inline; }
+
+#opcionessesion{display: inline; width:800px; height:60px; background-color: black;color:white; padding: 15px;
+                padding-top:30px;  }
+
+#NombreUsuario{width:300px; height:40px; background-color:black;color:white; margin-top: 22px}
+#misreservas{width:150px; height:40px; background-color:black; color:white}
+#cerrasesion{width:150px; height:40px; background-color:black; color:white}
+
+
+h2{display: inline; margin-right: 40px;}
+p {margin-left: 50px; margin-right: 50px; display: inline; position: static;}
+
+li{padding: 10px; border-style: solid; border-color: #b72a55; border-width:10px; width: 100vw;}
+
+#lista{background-color: purple; color: white;}

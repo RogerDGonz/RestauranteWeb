@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Famélico</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="Imagenes\iconoFamelico.png">
+        <link href="css/registros.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div id="contenedor">
+            <div id="logo">        
+                <a href=index.jsp>
+                    <figure>
+                      <img alt="logo" src="Imagenes\logo_provi.png" height="97" width="415">
+                    </figure>
+                </a>
+            </div>
+
+            <div id="registro_Restaurante">
+                <h2>Registrar Restaurante</h2>
+                <form method= "post" action="registroRestaurante">
+                    <p>Nombre:</p>
+                    <p><input name="nombre" type="text" size="25" maxlength="30"></p>
+                    <p>Categorias(separadas por comas ","):</p>
+                    <p><input name="categorias" type="text" size="25" maxlength="80"></p>
+                    <p>Dirección:</p>
+                    <p><input name="direccion" type="text" size="25" maxlength="120"></p>
+                    <input id="boton_registroRestaurante" type= "submit" value= "Registrar">
+                </form>
+
+            </div>
+        </div>
+    </body>
+</html>

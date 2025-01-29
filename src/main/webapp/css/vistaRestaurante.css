@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1 jul. 2022, 19:04:08
+    Author     : roger
+*/
+.logo {background-color: black;color:black; display:inline; overflow: auto; }
+
+#opcionessesion{display: inline; width:800px; height:60px; background-color: black;color:white; padding: 15px;
+                padding-top:30px;  }
+#NombreUsuario{width:300px; height:40px; background-color:black;color:white; margin-top: 22px}
+#misreservas{width:150px; height:40px; background-color:black; color:white}
+#cerrasesion{width:150px; height:40px; background-color:black; color:white}
+
+#busquedas{margin-top: 20px; background-color:#000; color:white; display:inline; overflow:auto; width:100vw; height:100vw;
+padding: 20px;margin-left: 0px}
+#busquedaNombre{width: 00px; height: 00px; color:white; display:inline }
+#busquedaLocalizacion{margin-left: 100px; width: 600px; height: 400px; color:white; display:inline}
+h1 {font-style:italic; text-align: center; size: 25px; font-size: 100px}
+h2 {display: inline; margin-right: 40px; }
+h4 { font-size: 50px; border-style: solid; border-color: #b72a55; background-color: gray; color: white}
+p {size:50px; text-align: center; display: inline}
+li {border-style: solid; border-color: #b72a55; background-color: gray; color: white}
+
+.reservar{background-color: green; color: white; position: relative; display: flex; font-size: 80px;  }
+img { }

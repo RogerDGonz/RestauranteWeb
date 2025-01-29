@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 22 mar. 2022, 13:42:26
+    Author     : Vaso de agua
+*/
+body{font-family:Arial; font-size:20px}
+input{font-family:Arial; font-size:25px}
+
+p{font-size:25px}
+#banner {width: 500px; height: 120px; float:left; margin: auto}
+#opciones{width: 820px; height: 120px; float:right;margin:auto}
+#busqueda{width:700px;height: 400px;margin:auto; clear:left;background-color:#b72a55;padding-left: 30px;padding-top: 20px;padding-bottom: 30px}
+#boton_buscar{width:200px; height:40px; background-color: black;color:white}
+#boton_log{width:200px; height:40px; background-color:#b72a55;color:black; margin-top: 22px}
+#boton_reg_user{width:300px; height:40px; background-color: black;color:white}
+#boton_reg_admin{width:300px; height:40px; background-color: black;color:white}

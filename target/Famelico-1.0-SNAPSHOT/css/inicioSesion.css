@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25 mar. 2022, 11:49:47
+    Author     : allof
+*/
+
+body{font-family:Arial; font-size:20px}
+input{font-family:Arial; font-size:25px}
+
+p{font-size:25px}
+#sesion{width:700px;height: 400px;margin:auto; clear:left;background-color:#b72a55;padding-left: 30px;padding-top: 20px;padding-bottom: 30px}
+#boton_identificarse{width:200px; height:40px; background-color: black;color:white}
